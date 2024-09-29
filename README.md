@@ -1,4 +1,4 @@
-<h3 align="center">A 3rd student majoring in Electrical Engineering and Computer Science in NTHU, Taiwan.</h3>
+<h3 align="center">Senior student majoring in Electrical Engineering and Computer Science in NTHU, Taiwan.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samueldharma&label=Profile%20views&color=0e75b6&style=flat" alt="samueldharma" /> </p>
 
